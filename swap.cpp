@@ -6,10 +6,7 @@ int main(){
     int temp = a;
     a = b;
     temp = b;
-    std::cout << temp;
-
-
-
+    std::cout << temp;  
 
 
     return 0;
