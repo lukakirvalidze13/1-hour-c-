@@ -8,8 +8,5 @@ int main(){
     double celsius = (fahrenheit - 32) * 5/9;
     cout << "In celsius = "<< celsius;
 
-    
-
-
     return 0;
 }
